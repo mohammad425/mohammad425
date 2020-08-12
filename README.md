@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Mohammad!](https://tasar.ir) 
+### Hey 👋🏻, I'm [Mohammad!](https://tasar.ir) 
 
 <br/>
 
@@ -9,7 +9,7 @@
   <img align="left" alt="Mohammad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mohammad425.mohammad425)
+![](https://visitor-badge.glitch.me/badge?page_id=mohammad425)
 
 <br />
 
