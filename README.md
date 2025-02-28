@@ -33,3 +33,9 @@
 <a href="https://github.com/mohammad425">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad425&show_icons=true&theme=dark" />
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammad425/mohammad425/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammad425/mohammad425/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mohammad425/mohammad425/output/github-snake.svg" />
+</picture>
